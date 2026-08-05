@@ -1,0 +1,312 @@
+description,units,source key,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025
+Total consumption (Btu) for all sectors,million MMBtu,,,,,,,,,,,,,,,,,,,
+United States,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+United States : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-US-99.A,21052,18703,19687,18554,16288,16911,16864,14525,13322,12904,12316,10414,8432,9708,9091,7422,7185,7992
+United States : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-US-99.A,378,315,273,187,153,160,207,191,147,140,185,135,116,139,194,144,136,161
+United States : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-US-99.A,180,166,173,176,144,180,160,147,151,123,128,99,107,107,101,72,60,70
+United States : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-US-99.A,7901,8138,8694,8913,10606,9719,9687,11327,11704,11032,12444,13241,13655,13151,14034,14930,15510,15081
+New England,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+New England : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-NEW-99.A,198,153,149,75,49,68,56,44,30,21,14,7,3,8,5,3,--,--
+New England : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-NEW-99.A,44,28,17,12,7,18,25,23,9,10,14,4,3,4,20,6,--,--
+New England : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-NEW-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,0,0,--,--
+New England : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-NEW-99.A,407,404,465,498,496,424,389,437,428,411,417,398,412,441,440,452,--,--
+Connecticut,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Connecticut : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-CT-99.A,45,26,29,6,9,8,9,7,2,3,4,1,0,3,0,0,0,0
+Connecticut : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-CT-99.A,6,4,5,2,2,3,6,5,1,2,4,1,1,1,4,2,1,2
+Connecticut : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-CT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,0,0,0,0
+Connecticut : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-CT-99.A,66,78,92,118,128,125,116,135,138,125,154,162,175,181,182,186,193,181
+Maine,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Maine : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-ME-99.A,6,2,2,2,1,2,2,3,2,2,2,2,2,2,1,1,1,1
+Maine : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-ME-99.A,12,9,6,5,2,5,5,7,2,2,3,1,1,1,4,1,1,3
+Maine : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-ME-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maine : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-ME-99.A,63,60,67,58,53,47,42,31,31,21,23,19,20,31,36,33,50,52
+Massachusetts,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Massachusetts : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-MA-99.A,107,92,84,43,24,42,30,24,20,12,0,0,0,0,0,0,0,0
+Massachusetts : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-MA-99.A,24,12,4,2,2,4,10,8,4,3,5,1,1,1,7,1,2,4
+Massachusetts : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-MA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Massachusetts : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-MA-99.A,172,168,205,205,198,172,151,174,174,183,156,135,126,128,134,126,137,150
+New Hampshire,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+New Hampshire : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-NH-99.A,40,33,34,24,14,17,15,11,5,4,8,4,2,3,4,2,3,3
+New Hampshire : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-NH-99.A,2,3,1,2,1,2,3,2,1,1,2,1,1,1,4,1,1,2
+New Hampshire : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-NH-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Hampshire : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-NH-99.A,51,40,41,49,53,31,33,45,35,27,23,27,27,34,33,32,33,40
+Rhode Island,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Rhode Island : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-RI-99.A,--,--,--,--,--,--,0,0,0,0,0,0,0,0,0,0,0,0
+Rhode Island : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-RI-99.A,0,0,0,0,0,3,1,1,0,1,1,0,0,0,1,0,0,1
+Rhode Island : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-RI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Rhode Island : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-RI-99.A,56,59,60,67,64,49,47,53,50,55,62,56,63,67,55,75,69,73
+Vermont,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Vermont : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-VT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Vermont : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-VT-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NM
+Vermont : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-VT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Vermont : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-VT-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Middle Atlantic,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Middle Atlantic : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-MAT-99.A,1519,1297,1369,1210,1003,1002,915,735,626,534,495,419,272,335,277,155,--,--
+Middle Atlantic : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-MAT-99.A,55,40,28,18,11,17,35,30,13,11,29,10,6,10,24,6,--,--
+Middle Atlantic : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-MAT-99.A,5,4,5,4,3,3,3,3,2,2,2,1,0,0,0,0,--,--
+Middle Atlantic : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-MAT-99.A,758,792,924,998,1191,1113,1171,1281,1394,1283,1346,1456,1593,1633,1743,1801,--,--
+New Jersey,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+New Jersey : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-NJ-99.A,98,60,72,50,26,26,31,23,17,16,17,14,12,13,6,0,0,0
+New Jersey : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-NJ-99.A,4,3,3,1,0,1,5,3,1,1,3,1,0,0,1,0,0,1
+New Jersey : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-NJ-99.A,--,--,--,0,0,0,NM,0,0,0,0,0,0,0,0,0,0,0
+New Jersey : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-NJ-99.A,186,179,215,215,244,235,268,304,348,294,305,314,243,237,269,266,242,245
+New York,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+New York : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-NY-99.A,209,143,152,109,57,56,54,29,23,11,7,5,2,0,0,0,0,0
+New York : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-NY-99.A,41,28,17,11,7,11,23,20,8,7,18,7,5,8,19,5,4,13
+New York : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-NY-99.A,2,2,5,3,0,0,0,0,0,0,0,0,0,0,0,--,--,--
+New York : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-NY-99.A,419,387,447,456,528,484,482,503,506,419,457,418,465,485,519,512,553,551
+Pennsylvania,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Pennsylvania : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-PA-99.A,1213,1095,1146,1052,919,921,830,683,585,506,471,401,258,323,270,155,152,198
+Pennsylvania : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-PA-99.A,11,9,7,6,4,4,8,6,4,3,8,3,1,2,4,1,1,3
+Pennsylvania : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-PA-99.A,3,3,0,1,3,3,3,3,2,2,1,0,0,0,0,0,0,0
+Pennsylvania : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-PA-99.A,154,226,262,327,420,394,421,474,540,570,584,724,885,910,955,1023,1068,1071
+East North Central,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+East North Central : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-ENC-99.A,4900,4437,4597,4294,3725,3985,3901,3365,2957,2957,2920,2379,1899,2236,2099,1551,--,--
+East North Central : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-ENC-99.A,13,10,10,9,8,7,9,7,7,6,7,7,5,9,9,5,--,--
+East North Central : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-ENC-99.A,36,33,35,43,40,48,50,49,41,36,42,32,36,40,43,38,--,--
+East North Central : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-ENC-99.A,278,283,373,448,730,548,563,799,1030,954,1217,1380,1574,1371,1563,1835,--,--
+Illinois,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Illinois : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-IL-99.A,1069,994,1030,1004,915,974,967,820,670,655,675,560,360,492,464,312,314,358
+Illinois : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-IL-99.A,2,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0
+Illinois : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-IL-99.A,0,0,0,--,--,--,0,0,0,0,0,0,0,0,0,0,0,0
+Illinois : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-IL-99.A,53,49,63,66,112,72,61,100,167,166,161,193,257,203,176,236,245,264
+Indiana,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Indiana : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-IN-99.A,1287,1142,1184,1099,979,988,1037,840,782,770,830,663,525,598,581,465,451,531
+Indiana : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-IN-99.A,2,2,2,2,1,2,2,2,1,2,2,1,1,2,1,1,1,1
+Indiana : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-IN-99.A,0,0,0,9,6,10,11,12,5,0,0,0,0,0,0,0,0,0
+Indiana : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-IN-99.A,52,54,77,102,130,98,103,159,208,174,247,284,289,262,293,326,352,353
+Michigan,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Michigan : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-MI-99.A,738,700,692,635,573,603,564,563,437,449,456,400,305,392,378,241,272,300
+Michigan : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-MI-99.A,4,3,3,2,2,2,2,1,2,2,2,2,1,2,1,1,1,1
+Michigan : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-MI-99.A,5,6,6,6,7,10,15,13,13,16,16,15,16,18,23,19,21,23
+Michigan : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-MI-99.A,99,90,122,126,207,134,140,200,283,254,301,328,425,298,367,463,479,459
+Ohio,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Ohio : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-OH-99.A,1335,1183,1242,1117,892,973,927,743,717,702,604,482,464,471,447,317,307,367
+Ohio : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-OH-99.A,3,3,3,3,3,3,4,3,3,2,3,2,1,2,5,1,2,2
+Ohio : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-OH-99.A,19,17,19,19,21,22,19,21,20,18,25,16,19,20,18,18,20,19
+Ohio : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-OH-99.A,26,41,62,100,182,172,186,226,234,233,356,402,414,431,524,597,650,615
+Wisconsin,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Wisconsin : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-WI-99.A,471,419,450,439,366,447,407,399,351,382,355,274,246,283,229,216,213,237
+Wisconsin : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-WI-99.A,2,1,1,1,1,0,1,0,0,0,1,1,0,3,0,1,1,1
+Wisconsin : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-WI-99.A,12,10,10,9,5,5,5,4,2,2,2,1,1,2,2,1,0,0
+Wisconsin : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-WI-99.A,48,49,49,55,98,72,73,114,136,126,152,173,187,177,202,213,218,202
+West North Central,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+West North Central : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-WNC-99.A,2565,2478,2537,2529,2335,2389,2382,2153,1990,2009,2055,1784,1575,1767,1709,1427,--,--
+West North Central : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-WNC-99.A,5,4,5,4,4,4,5,3,3,3,4,5,4,10,7,6,--,--
+West North Central : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-WNC-99.A,4,2,2,1,0,3,4,2,2,2,2,3,3,1,1,1,--,--
+West North Central : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-WNC-99.A,130,111,132,124,188,154,124,166,216,200,273,318,311,307,322,422,--,--
+Iowa,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Iowa : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-IA-99.A,464,435,478,445,414,391,393,346,299,297,324,265,182,267,226,201,180,228
+Iowa : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-IA-99.A,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Iowa : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-IA-99.A,1,1,1,1,0,3,4,2,2,2,2,3,3,1,1,1,0,0
+Iowa : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-IA-99.A,18,13,13,10,20,16,13,22,28,42,63,68,66,65,76,93,91,88
+Kansas,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Kansas : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-KS-99.A,368,354,357,344,306,325,314,271,251,214,225,196,193,218,225,182,150,215
+Kansas : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-KS-99.A,1,0,1,0,0,1,1,1,0,1,1,1,1,2,1,1,1,2
+Kansas : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-KS-99.A,1,1,1,0,0,0,0,0,--,--,--,--,--,--,--,--,--,--
+Kansas : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-KS-99.A,27,32,28,31,37,29,24,19,26,26,34,33,30,28,37,48,60,44
+Minnesota,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Minnesota : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-MN-99.A,354,325,311,312,252,263,309,271,256,253,259,200,159,175,180,144,130,156
+Minnesota : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-MN-99.A,1,1,1,0,0,1,1,0,0,0,1,1,0,1,1,1,0,0
+Minnesota : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-MN-99.A,2,0,0,0,0,0,0,--,--,--,--,--,--,--,--,--,--,--
+Minnesota : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-MN-99.A,31,30,42,35,65,59,38,64,78,59,76,102,100,110,81,119,137,118
+Missouri,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Missouri : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-MO-99.A,776,752,788,817,748,785,758,676,624,690,649,566,533,596,548,426,405,474
+Missouri : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-MO-99.A,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,2,2,4
+Missouri : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-MO-99.A,0,0,0,0,0,0,0,--,--,--,--,--,--,--,--,--,--,--
+Missouri : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-MO-99.A,44,30,41,39,53,39,37,42,57,52,69,74,73,60,82,91,90,87
+Nebraska,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Nebraska : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-NE-99.A,227,244,249,277,268,286,268,258,234,226,257,237,209,212,221,194,179,197
+Nebraska : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-NE-99.A,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,1
+Nebraska : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-NE-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nebraska : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-NE-99.A,7,3,5,5,8,5,4,5,6,7,10,13,12,12,13,17,17,20
+North Dakota,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+North Dakota : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-ND-99.A,336,333,317,305,316,309,309,315,303,307,316,292,281,282,289,262,269,262
+North Dakota : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-ND-99.A,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+North Dakota : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-ND-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,0
+North Dakota : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-ND-99.A,0,1,1,1,1,1,3,8,13,9,12,17,19,18,16,32,29,28
+South Dakota,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+South Dakota : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-SD-99.A,40,35,36,29,32,31,30,16,23,22,25,28,18,18,21,18,18,22
+South Dakota : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-SD-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NM
+South Dakota : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-SD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+South Dakota : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-SD-99.A,3,1,2,2,3,4,4,6,8,6,10,11,11,14,15,22,23,23
+South Atlantic,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+South Atlantic : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-SAT-99.A,4382,3602,3904,3407,2822,2836,3050,2551,2485,2187,2047,1684,1286,1484,1279,1126,--,--
+South Atlantic : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-SAT-99.A,138,110,103,38,25,22,43,37,28,24,43,17,15,20,41,21,--,--
+South Atlantic : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-SAT-99.A,42,41,40,27,13,26,18,20,24,14,20,16,19,12,13,13,--,--
+South Atlantic : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-SAT-99.A,1154,1373,1591,1716,2119,1966,1975,2451,2583,2588,2856,3012,3111,3021,3199,3181,--,--
+Delaware,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Delaware : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-DE-99.A,61,34,30,18,17,18,10,7,6,5,4,2,2,5,2,0,3,3
+Delaware : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-DE-99.A,3,4,1,0,0,0,2,2,1,0,2,0,0,0,1,0,0,1
+Delaware : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-DE-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delaware : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-DE-99.A,13,13,25,42,63,57,60,62,71,60,50,46,47,38,46,44,41,44
+District Of Columbia,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+District Of Columbia : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-DC-99.A,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,NM
+District Of Columbia : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-DC-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+District Of Columbia : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-DC-99.A,--,--,--,1,1,1,1,1,1,1,1,2,2,2,1,1,2,1
+Florida,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Florida : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-FL-99.A,676,567,626,547,476,497,550,459,418,398,319,225,176,196,170,128,89,110
+Florida : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-FL-99.A,98,74,67,17,10,6,7,7,10,6,7,4,3,5,6,2,2,2
+Florida : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-FL-99.A,33,29,32,20,7,21,14,16,21,10,16,12,15,9,9,11,7,11
+Florida : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-FL-99.A,837,957,1027,1083,1184,1080,1085,1214,1241,1248,1331,1393,1436,1396,1465,1473,1530,1467
+Georgia,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Georgia : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-GA-99.A,875,713,757,626,429,421,477,391,397,343,339,272,152,204,180,177,191,208
+Georgia : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-GA-99.A,6,4,3,3,2,3,4,3,2,4,6,2,3,3,14,10,3,4
+Georgia : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-GA-99.A,8,8,8,7,6,4,4,3,3,4,4,4,4,3,4,2,3,3
+Georgia : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-GA-99.A,107,157,187,208,327,299,310,399,408,402,405,459,465,444,474,472,450,444
+Maryland,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Maryland : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-MD-99.A,289,253,253,228,181,175,193,158,156,99,116,69,41,60,52,22,29,27
+Maryland : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-MD-99.A,5,4,4,3,3,3,7,4,2,2,3,1,1,1,2,1,5,6
+Maryland : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-MD-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Maryland : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-MD-99.A,23,21,34,28,57,33,29,51,63,65,116,114,110,108,107,122,113,129
+North Carolina,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+North Carolina : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-NC-99.A,780,667,738,616,528,487,497,402,379,347,323,317,222,221,162,153,181,184
+North Carolina : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-NC-99.A,7,6,5,3,3,3,6,5,3,3,8,2,2,3,4,2,2,2
+North Carolina : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-NC-99.A,--,--,--,--,--,--,--,0,--,--,--,--,--,--,--,--,--,--
+North Carolina : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-NC-99.A,37,41,76,93,156,208,214,289,309,295,348,323,324,385,489,423,456,446
+South Carolina,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+South Carolina : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-SC-99.A,423,355,388,353,291,250,298,235,217,187,200,157,134,160,149,161,179,194
+South Carolina : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-SC-99.A,2,2,2,2,2,2,3,3,2,1,4,1,1,1,3,1,1,1
+South Carolina : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-SC-99.A,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+South Carolina : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-SC-99.A,48,77,90,104,122,98,91,143,141,145,184,193,195,190,201,195,188,182
+Virginia,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Virginia : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-VA-99.A,375,308,319,249,183,253,241,198,188,124,112,49,44,37,39,19,26,42
+Virginia : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-VA-99.A,14,14,16,7,5,4,13,12,6,6,11,4,4,5,9,3,4,5
+Virginia : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-VA-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Virginia : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-VA-99.A,85,104,149,152,206,188,177,278,334,353,402,457,501,430,393,410,490,487
+West Virginia,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+West Virginia : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-WV-99.A,903,703,793,770,716,735,783,701,724,684,633,594,513,603,525,466,447,477
+West Virginia : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-WV-99.A,1,2,2,2,1,2,2,1,1,1,2,1,1,2,2,2,1,2
+West Virginia : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-WV-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Virginia : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-WV-99.A,3,2,3,4,5,3,7,14,16,20,19,25,31,29,24,41,42,38
+East South Central,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+East South Central : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-ESC-99.A,2530,2069,2258,2124,1845,1858,1905,1621,1487,1309,1252,1077,899,1074,1022,900,--,--
+East South Central : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-ESC-99.A,9,12,12,7,6,5,6,5,4,3,4,3,3,3,4,3,--,--
+East South Central : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-ESC-99.A,31,21,23,17,15,14,11,10,12,5,0,0,0,0,0,0,--,--
+East South Central : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-ESC-99.A,382,462,600,674,852,685,721,932,1024,974,1116,1128,1114,1074,1207,1190,--,--
+Alabama,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Alabama : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-AL-99.A,774,584,662,597,484,499,496,430,349,318,320,269,220,270,265,200,215,220
+Alabama : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-AL-99.A,3,8,7,3,3,2,2,2,1,1,1,0,0,0,1,1,1,1
+Alabama : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-AL-99.A,--,--,--,0,--,--,--,--,--,--,--,--,--,--,--,--,--,0
+Alabama : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-AL-99.A,185,251,307,371,434,366,386,443,460,428,481,470,447,446,505,506,523,528
+Kentucky,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Kentucky : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-KY-99.A,966,892,958,962,880,887,886,770,716,617,636,556,467,531,503,464,480,521
+Kentucky : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-KY-99.A,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Kentucky : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-KY-99.A,31,21,23,17,15,14,11,10,12,5,0,0,0,0,0,0,0,0
+Kentucky : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-KY-99.A,14,12,24,21,36,20,33,58,74,90,122,123,113,118,145,120,150,163
+Mississippi,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Mississippi : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-MS-99.A,174,139,146,105,80,95,114,69,61,54,60,50,52,62,64,47,40,48
+Mississippi : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-MS-99.A,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mississippi : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-MS-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Mississippi : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-MS-99.A,176,192,243,251,314,256,249,349,386,358,385,380,412,372,398,425,454,441
+Tennessee,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Tennessee : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-TN-99.A,616,454,492,461,401,377,408,352,361,321,237,201,161,210,191,189,200,205
+Tennessee : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-TN-99.A,3,2,3,2,2,2,2,2,1,1,1,2,1,2,2,1,1,1
+Tennessee : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-TN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Tennessee : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-TN-99.A,7,6,26,31,68,43,53,83,105,98,128,154,143,138,159,139,166,173
+West South Central,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+West South Central : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-WSC-99.A,2488,2362,2481,2629,2338,2459,2433,1992,1908,2039,1783,1399,1140,1397,1332,1094,--,--
+West South Central : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-WSC-99.A,6,6,4,3,3,2,2,3,2,2,2,2,2,4,5,4,--,--
+West South Central : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-WSC-99.A,35,41,48,65,63,78,67,54,59,56,55,40,41,46,37,13,--,--
+West South Central : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-WSC-99.A,2734,2710,2769,2912,3107,2861,2808,3205,3137,2850,3304,3526,3448,3207,3515,3820,--,--
+Arkansas,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Arkansas : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-AR-99.A,273,260,290,304,295,325,336,224,243,265,302,237,160,214,210,178,167,210
+Arkansas : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-AR-99.A,1,1,1,1,0,0,0,1,1,1,0,1,1,1,1,0,1,NM
+Arkansas : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-AR-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arkansas : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-AR-99.A,75,95,108,118,141,107,86,126,151,142,169,177,149,165,205,207,201,192
+Louisiana,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Louisiana : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-LA-99.A,261,252,259,269,237,226,207,170,136,138,134,87,45,91,92,54,44,63
+Louisiana : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-LA-99.A,4,2,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,NM
+Louisiana : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-LA-99.A,23,25,40,56,39,59,59,48,57,54,51,37,38,44,35,12,0,5
+Louisiana : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-LA-99.A,499,487,550,577,623,569,582,654,641,583,614,675,683,618,676,690,710,700
+Oklahoma,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Oklahoma : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-OK-99.A,387,370,343,376,324,333,332,277,219,196,169,92,68,129,104,61,72,110
+Oklahoma : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-OK-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oklahoma : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-OK-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oklahoma : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-OK-99.A,298,300,305,279,332,262,221,274,298,248,348,373,370,286,310,382,407,368
+Texas,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Texas : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-TX-99.A,1567,1480,1589,1680,1483,1576,1558,1320,1309,1439,1179,983,867,962,926,801,743,769
+Texas : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-TX-99.A,1,2,1,2,2,1,1,1,1,1,1,1,1,3,3,3,2,2
+Texas : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-TX-99.A,12,16,7,9,23,19,8,6,2,2,4,3,3,2,2,1,1,1
+Texas : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-TX-99.A,1862,1828,1806,1937,2012,1923,1919,2151,2047,1876,2174,2301,2245,2138,2324,2541,2633,2595
+Mountain,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Mountain : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-MTN-99.A,2263,2124,2189,2129,2042,2151,2064,1936,1722,1727,1630,1516,1239,1326,1289,1089,--,--
+Mountain : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-MTN-99.A,3,3,3,3,3,2,3,2,3,2,2,6,2,2,2,5,--,--
+Mountain : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-MTN-99.A,7,8,7,8,8,8,7,8,8,8,7,7,8,8,7,8,--,--
+Mountain : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-MTN-99.A,750,739,657,587,691,699,680,784,809,731,877,972,1021,958,949,1069,--,--
+Arizona,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Arizona : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-AZ-99.A,453,410,454,457,416,451,443,380,320,329,325,251,150,154,148,132,108,104
+Arizona : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-AZ-99.A,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0
+Arizona : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-AZ-99.A,0,0,0,0,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Arizona : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-AZ-99.A,293,269,229,185,235,230,213,259,266,234,298,369,402,371,351,414,432,410
+Colorado,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Colorado : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-CO-99.A,373,340,369,362,365,357,343,333,316,311,282,270,213,249,230,202,178,152
+Colorado : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-CO-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,NM
+Colorado : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-CO-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Colorado : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-CO-99.A,112,120,96,88,90,94,102,100,105,106,139,147,160,133,142,148,158,159
+Idaho,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Idaho : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-ID-99.A,3,3,5,3,3,5,4,2,2,1,1,1,1,1,0,0,0,0
+Idaho : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-ID-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Idaho : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-ID-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Idaho : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-ID-99.A,14,15,14,10,16,27,20,31,32,31,31,41,40,46,42,57,66,61
+Montana,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Montana : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-MT-99.A,202,172,202,165,154,162,171,174,158,152,150,157,97,120,128,128,109,110
+Montana : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-MT-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Montana : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-MT-99.A,7,8,7,8,8,8,7,8,8,8,7,7,8,8,7,8,6,8
+Montana : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-MT-99.A,1,1,1,5,6,7,6,7,6,5,6,6,4,6,9,11,11,13
+Nevada,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Nevada : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-NV-99.A,84,80,76,60,46,57,72,30,24,21,28,30,22,30,31,25,28,29
+Nevada : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-NV-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nevada : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-NV-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Nevada : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-NV-99.A,191,200,184,169,197,190,175,222,228,207,211,205,215,208,199,191,196,179
+New Mexico,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+New Mexico : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-NM-99.A,283,305,266,284,262,255,214,214,195,197,135,150,137,132,137,74,84,81
+New Mexico : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-NM-99.A,1,0,1,0,0,1,1,1,1,0,0,4,0,0,0,1,0,NM
+New Mexico : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-NM-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+New Mexico : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-NM-99.A,72,73,73,76,77,78,81,83,87,80,104,108,104,87,94,125,105,100
+Utah,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Utah : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-UT-99.A,387,359,350,338,314,347,336,320,261,266,264,258,237,268,230,167,172,189
+Utah : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-UT-99.A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Utah : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-UT-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Utah : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-UT-99.A,60,54,52,44,59,61,71,70,70,52,72,78,78,87,89,94,95,91
+Wyoming,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Wyoming : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-WY-99.A,478,455,466,460,482,516,481,482,446,447,444,398,381,371,385,361,293,321
+Wyoming : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-WY-99.A,1,1,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,1
+Wyoming : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-WY-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Wyoming : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-WY-99.A,7,9,8,10,11,10,11,13,14,15,17,17,20,20,23,29,65,56
+Pacific Contiguous,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Pacific Contiguous : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-PCC-99.A,174,150,172,127,97,133,128,97,88,94,91,119,90,51,55,61,--,--
+Pacific Contiguous : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-PCC-99.A,4,4,2,3,2,2,2,2,2,1,2,2,1,2,3,1,--,--
+Pacific Contiguous : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-PCC-99.A,20,17,12,10,2,0,0,0,3,0,0,0,0,0,0,0,--,--
+Pacific Contiguous : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-PCC-99.A,1263,1225,1142,914,1190,1234,1224,1238,1054,1012,1011,1026,1047,1114,1071,1130,--,--
+California,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+California : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-CA-99.A,40,36,37,37,28,21,21,15,15,14,15,12,13,14,13,12,12,12
+California : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-CA-99.A,2,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1
+California : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-CA-99.A,20,17,12,10,2,0,0,0,3,0,0,0,0,0,0,0,0,0
+California : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-CA-99.A,1053,1009,942,805,1052,1029,1034,1006,841,800,785,738,783,812,801,785,717,608
+Oregon,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Oregon : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-OR-99.A,40,31,41,33,27,37,32,24,19,18,15,26,17,--,--,--,--,--
+Oregon : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-OR-99.A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NM
+Oregon : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-OR-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Oregon : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-OR-99.A,129,118,114,64,89,110,98,124,118,117,136,158,145,163,147,181,194,176
+Washington,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Washington : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-WA-99.A,93,83,94,57,42,75,76,58,53,62,61,81,59,37,42,49,34,38
+Washington : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-WA-99.A,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Washington : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-WA-99.A,--,--,--,--,--,--,--,--,0,0,0,0,0,0,0,0,0,0
+Washington : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-WA-99.A,81,98,86,45,50,95,92,108,96,96,90,130,119,139,122,164,152,140
+Pacific Noncontiguous,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Pacific Noncontiguous : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-PCN-99.A,32,31,30,31,31,29,31,30,30,28,28,29,29,28,23,15,--,--
+Pacific Noncontiguous : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-PCN-99.A,100,98,92,90,84,80,78,79,76,77,78,80,74,73,80,85,--,--
+Pacific Noncontiguous : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-PCN-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Pacific Noncontiguous : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-PCN-99.A,44,39,41,43,41,35,33,31,29,30,26,25,24,26,28,28,--,--
+Alaska,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Alaska : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-AK-99.A,14,14,13,14,15,14,13,15,13,13,14,14,15,16,15,15,16,15
+Alaska : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-AK-99.A,9,11,9,9,10,8,7,8,8,9,8,9,10,8,8,9,9,10
+Alaska : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-AK-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alaska : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-AK-99.A,44,39,41,43,41,35,33,31,29,30,26,25,24,26,28,28,27,26
+Hawaii,,ELEC.CONS_TOT_BTU..A,,,,,,,,,,,,,,,,,,
+Hawaii : coal,million MMBtu,ELEC.CONS_TOT_BTU.COW-HI-99.A,18,17,17,16,17,15,17,16,16,15,14,14,13,13,8,--,--,--
+Hawaii : petroleum liquids,million MMBtu,ELEC.CONS_TOT_BTU.PEL-HI-99.A,90,87,83,81,75,73,71,71,68,68,70,71,64,65,71,76,75,74
+Hawaii : petroleum coke,million MMBtu,ELEC.CONS_TOT_BTU.PC-HI-99.A,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Hawaii : natural gas,million MMBtu,ELEC.CONS_TOT_BTU.NG-HI-99.A,--,--,--,0,--,--,--,--,--,--,--,--,--,--,--,--,--,--
